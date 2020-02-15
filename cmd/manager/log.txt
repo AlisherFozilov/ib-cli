@@ -1,0 +1,24 @@
+2020/02/15 15:19:12 start application
+2020/02/15 15:19:12 open db
+2020/02/15 15:19:12 start operations loop
+2020/02/15 15:19:12 Can't read input: EOF
+2020/02/15 15:21:38 start application
+2020/02/15 15:21:38 open db
+2020/02/15 15:21:38 start operations loop
+2020/02/15 15:21:38 finish operations loop
+2020/02/15 15:21:38 finish application
+2020/02/15 15:22:06 start application
+2020/02/15 15:22:06 open db
+2020/02/15 15:22:06 start operations loop
+2020/02/15 15:22:06 finish operations loop
+2020/02/15 15:22:06 finish application
+2020/02/15 15:22:50 start application
+2020/02/15 15:22:50 open db
+2020/02/15 15:22:50 start operations loop
+2020/02/15 15:22:50 finish operations loop
+2020/02/15 15:22:50 finish application
+2020/02/15 15:23:18 start application
+2020/02/15 15:23:19 open db
+2020/02/15 15:23:19 start operations loop
+2020/02/15 15:23:19 finish operations loop
+2020/02/15 15:23:19 finish application

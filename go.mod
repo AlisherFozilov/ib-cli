@@ -7,4 +7,4 @@ require (
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 )
 
-//replace github.com/AlisherFozilov/ib-core => ../ib-core
+replace github.com/AlisherFozilov/ib-core => ../ib-core

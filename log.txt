@@ -112,3 +112,13 @@
 2020/02/15 13:36:20 start operations loop
 2020/02/15 13:38:11 finish operations loop
 2020/02/15 13:38:11 finish application
+2020/02/15 15:14:41 start application
+2020/02/15 15:14:41 open db
+2020/02/15 15:14:41 start operations loop
+2020/02/15 15:14:46 finish operations loop
+2020/02/15 15:14:46 finish application
+2020/02/15 15:20:11 start application
+2020/02/15 15:20:11 open db
+2020/02/15 15:20:11 start operations loop
+2020/02/15 15:20:37 finish operations loop
+2020/02/15 15:20:37 finish application
